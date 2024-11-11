@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "MuseBase App",
+    "short_name": "MuseBase",
+    "description": "An app that shares a database of music that can be edited",
+    "start_url": "/",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icon512.png",
+            "sizes": "512x512"
+        }
+    ]
+}

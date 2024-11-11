@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Medula+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Markazi+Text:wght@400..700&display=swap');
+
+div.banner {
+background-color: #D80707;
+color: #EBFFFC;
+font-size: 50px;
+text-align: center;
+font-family: "Medula One";
+font-weight: bold;
+margin-top: -9px;
+margin-left: -8px;
+margin-right: -8px;
+}
+
+div.bottom_banner {
+background-color: #D80707;
+color: #EBFFFC;
+font-size: 50px;
+text-align: center;
+font-family: "Medula One";
+font-weight: bold;
+height: 50px;
+margin-bottom: -8px;
+margin-left: -8px;
+margin-right: -8px;
+}
+
+a:hover {
+color: #252121;
+}
+
+.logo {
+font-family: "Metal Mania";
+display: inline-block;
+padding-top: 18px;
+margin-right: 27%;
+margin-bottom: 17px;
+}
+
+.home {
+display: inline-block;
+margin-right: 7.5%;
+margin-bottom: 17px;
+color: #EBFFFC;
+text-decoration: none;
+}
+
+.home_current {
+display: inline-block;
+margin-right: 7.5%;
+margin-bottom: 17px;
+text-decoration: underline;
+}
+
+.artists {
+display: inline-block;
+margin-bottom: 0px;
+color: #EBFFFC;
+text-decoration: none;
+}
+
+.artists_current {
+display: inline-block;
+margin-bottom: 0px;
+text-decoration: underline;
+}
+
+.songs {
+display: inline-block;
+margin-left: 7.5%;
+margin-bottom: 0px;
+color: #EBFFFC;
+text-decoration: none;
+}
+
+.songs_current {
+display: inline-block;
+margin-left: 7.5%;
+margin-bottom: 0px;
+text-decoration: underline;
+}
+
+
+.blank {
+display: inline-block;
+margin-left: 30%;
+margin-bottom: 0px;
+}
+
+body {
+background-color: #252121;
+background-image: url("background.png");
+}
+
+div.title {
+padding-top: 20px;
+}
+
+div.text_left {
+display: inline-block;
+background-color: #D80707;
+margin-left: 2%;
+width: 45%;
+}
+
+div.text_right {
+display: inline-block;
+background-color: #D80707;
+margin-right: 0%;
+margin-left: 7.5%;
+width: 45%;
+}
+
+div.section {
+margin-top: -20px;
+padding-bottom: 125px;
+}
+
+img {
+display: inline-block;
+vertical-align: top;
+}
+
+img.home {
+margin-left: 5.5%;
+margin-right: 0;
+}
+
+img.artist1 {
+margin-left: 10%;
+margin-right: 0;
+padding-right: 5%;
+}
+
+img.artist2 {
+margin-left: 5%;
+margin-right: 0;
+}
+
+img.artist4 {
+margin-left: 2%;
+margin-right: 0;
+}
+
+h1 {
+font-family: "Metal Mania";
+color: #FF4E4E;
+text-align: center;
+font-size: 100px;
+margin-top: 10px;
+}
+
+h2 {
+color: #EBFFFC;
+font-family: "Medula One";
+font-size: 75px;
+margin-top: 15px;
+margin-bottom: 5px;
+}
+
+h2.left {
+margin-left: 15px;
+}
+
+h2.right {
+margin-left: 15px;
+}
+
+ul {
+margin-top: -10px;
+}
+
+li {
+color: #EBFFFC;
+font-family: "Markazi Text", serif;
+font-size: 24px;
+margin-left: 15px;
+margin-right: 15px;
+}
+
+
+p {
+color: #EBFFFC;
+font-family: "Markazi Text", serif;
+font-size: 24px;
+margin-left: 15px;
+margin-right: 15px;
+}
+
+p.bottom_banner {
+color: #EBFFFC;
+font-family: "Markazi Text", serif;
+font-size: 20px;
+text-align: left;
+padding-top: 14px;
+}
